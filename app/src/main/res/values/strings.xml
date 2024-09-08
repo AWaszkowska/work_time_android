@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">shift</string>
+    <string-array name="options_array">
+        <item>"-Lokalizacja-"</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="pracownicy_array">
+        <item>"-Pracownik-"</item>
+        <item>Beta</item>
+        <item>Gamma</item>
+    </string-array>
+</resources>

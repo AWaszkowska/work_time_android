@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> xmlns:tools="http://schemas.android.com/tools">
+
+<!--    <style name="Theme.Shift" parent="android:Theme.Material.Light.NoActionBar" >-->
+    <style name="Theme.Shift" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/light_blue</item>
+<!--        <item name="android:statusBarColor">@color/corn_blue</item>-->
+
+    </style>
+
+</resources>
